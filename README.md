@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do EdnardoUna 😁
+## Bem-vindo(a) ao perfil do Ednardo 😁
 
  <div>
    <a href="https://github.com/EdnardoUna">
